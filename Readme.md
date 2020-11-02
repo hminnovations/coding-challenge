@@ -4,7 +4,7 @@ As a member of the Healthy Minds development team, you’ll be working closely w
 
 ## Your Challenge
 
-Write a JavaScript (Node.JS version 12.18.0) program to combine a partial Healthy Minds Program description with a record of one user’s progress through the program and produce a human-readable CSV document that describes Alice’s progress through the program in an easy to understand way. 
+Write a JavaScript or TypeScript (Node.JS version 12.18.0) program to combine a partial Healthy Minds Program description with a record of one user’s progress through the program and produce a human-readable CSV document that describes Alice’s progress through the program in an easy to understand way. 
 
 Please use the following two mock API endpoints when building your solution
 
@@ -33,10 +33,12 @@ Your output should look similar to `alice-progress.csv`
 
 ## How We Grade Solutions
 
-We’ll run your program on our end using the following command to verify that it produces correct output:
+Include instructions for running your program within your solution. It should be run with a terminal command, for example:
 
-```
-> node your-solution.js output.csv
+```bash
+node your-solution.js output.csv
+yarn start --output output.csv
+npm run start --outFile output.csv
 ```
 
 We’ll be running your app using Node.JS version 12.18.0.
