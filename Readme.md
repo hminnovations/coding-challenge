@@ -42,3 +42,9 @@ We’ll run your program on our end using the following command to verify that i
 We’ll be running your app using Node.JS version 12.18.0.
 
 Results will be verified by a human, so minor differences in casing and quoting style won’t necessarily disqualify you, but please try to mimic the format of `alice-progress.csv` as closely as possible to keep our test checkers happy. 🙂
+
+## Other considerations
+
+* Code organization
+* Documentation
+* Testing
