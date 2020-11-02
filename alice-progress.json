@@ -1,0 +1,16 @@
+{
+  "activityMetadata": {
+    "c376391f-d24e-4b78-a246-e8816f888340": {"lastCompletedOn": "2018-05-30T07:41:04.035-05:00"},
+    "0f2f5925-3521-486d-91dd-75469d4da57c": {"lastCompletedOn": "2018-05-30T07:48:08.383-05:00"},
+    "0e6b7000-6588-4cb9-a1f7-6eecbca74230": {"lastCompletedOn": "2018-05-30T07:52:12.704-05:00"},
+    "1208d753-4134-427e-8eb8-a300c7d788f0": {"lastCompletedOn": "2018-05-30T08:08:24.312-05:00"},
+    "7a9626cc-f906-41a3-86de-0a2a899fc546": {"lastCompletedOn": "2018-05-31T07:23:31.580-05:00"},
+    "9fbd5cdb-05bb-4d83-ad12-cbff28fb0683": {"lastCompletedOn": "2018-05-31T07:25:54.323-05:00"},
+    "5c60029f-cb05-4e27-a7e9-9bbb97bdd5fe": {"lastCompletedOn": "2018-05-31T07:30:11.906-05:00"},
+    "d0a5c01e-9991-4717-aff1-42ba41f33eb8": {"lastCompletedOn": "2018-06-01T11:22:59.727-05:00"},
+    "31dcb471-a62b-4e73-934a-f19c9bb90281": {"lastCompletedOn": "2018-06-01T11:25:17.261-05:00"},
+    "dd8c5a1d-aeca-4eac-b595-80a66f02ab43": {"lastCompletedOn": "2018-06-01T11:33:48.416-05:00"},
+  },
+  "cohortName": "Alice Co.",
+  "mostRecentlyCompletedActivityId": "dd8c5a1d-aeca-4eac-b595-80a66f02ab43"
+}
